@@ -18,7 +18,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet Hamz DDOS")
 print
 print "You Tube : Hamz-Bot"
 print "github   : https://github.com/hamzzcleys"
@@ -29,7 +29,7 @@ ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
-os.system("figlet Attack Starting")
+os.system("figlet Hamz ATTACKING")
 print "[                    ] 0% "
 time.sleep(5)
 print "[=====               ] 25%"
